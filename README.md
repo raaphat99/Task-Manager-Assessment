@@ -16,14 +16,14 @@ cd Task-Manager-Assessment
 **3. Install dependencies:**
 
 You can run the following command in the root directory of your solution through the .NET CLI
-dotnet restore
+ * dotnet restore
 
 **4. Migrate the database:**
 
 Open the nuGet Package Manager and run these commands.
-  * add-migration
+  * add-migration <migration-name>
   * update-database
 
 **4. Run the application and test the API endpoints through Swagger or Postman:**
 
-CTRL + F5
+CTRL + F11
