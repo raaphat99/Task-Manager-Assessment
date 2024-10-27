@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\Domain.csproj": {}
+    "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\Domain.csproj": {
+    "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\Domain.csproj",
+        "projectUniqueName": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\Domain.csproj",
+        "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ITI\\.nuget\\packages\\",
-        "outputPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\obj\\",
+        "outputPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ITI\\AppData\\Roaming\\NuGet\\NuGet.Config",

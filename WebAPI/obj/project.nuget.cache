@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZweQ34vhGU=",
+  "dgSpecHash": "b4315ywB2mk=",
   "success": true,
-  "projectFilePath": "G:\\JSB Assesment\\Solution\\TaskManager\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ITI\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ITI\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

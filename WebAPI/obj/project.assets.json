@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\JSB Assesment\\Solution\\TaskManager\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\WebAPI\\WebAPI.csproj",
+      "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\ITI\\.nuget\\packages\\",
-      "outputPath": "G:\\JSB Assesment\\Solution\\TaskManager\\WebAPI\\obj\\",
+      "outputPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ITI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4579,8 +4579,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\JSB Assesment\\Solution\\TaskManager\\DataAccess.EFCore\\DataAccess.EFCore.csproj": {
-              "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\DataAccess.EFCore\\DataAccess.EFCore.csproj"
+            "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\DataAccess.EFCore\\DataAccess.EFCore.csproj": {
+              "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\DataAccess.EFCore\\DataAccess.EFCore.csproj"
             }
           }
         }

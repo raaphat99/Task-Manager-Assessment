@@ -2770,11 +2770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\JSB Assesment\\Solution\\TaskManager\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
+      "projectUniqueName": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
       "projectName": "DataAccess.EFCore",
-      "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
+      "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
       "packagesPath": "C:\\Users\\ITI\\.nuget\\packages\\",
-      "outputPath": "G:\\JSB Assesment\\Solution\\TaskManager\\DataAccess.EFCore\\obj\\",
+      "outputPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\DataAccess.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ITI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2792,8 +2792,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\Domain.csproj": {
-              "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Domain\\Domain.csproj"
+            "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\Domain.csproj": {
+              "projectPath": "G:\\JSB Assesment\\Solution\\TaskManager\\Task-Manager-Assessment\\Domain\\Domain.csproj"
             }
           }
         }
