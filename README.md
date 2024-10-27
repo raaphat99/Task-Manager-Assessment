@@ -26,4 +26,4 @@ Open the nuGet Package Manager and run these commands.
 
 **4. Run the application and test the API endpoints through Swagger or Postman:**
 
-CTRL + F11
+F5
